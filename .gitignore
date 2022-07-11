@@ -31,4 +31,5 @@
 Session.vim
 .netrwhist
 
-/build
+build
+bin
