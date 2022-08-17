@@ -1,0 +1,5 @@
+cri-tools (100:1.25.0~rc1-1) UNRELEASED; urgency=medium
+
+  * https://github.com/kubernetes-sigs/cri-tools/commit/77d02a0356e9e1dca58d44e54dd0799e89856387
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Wed, 17 Aug 2022 12:36:05 +0800
