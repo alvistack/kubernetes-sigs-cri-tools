@@ -1,0 +1,5 @@
+cri-tools (100:1.27.0~rc0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/kubernetes-sigs/cri-tools/releases/tag/v1.27.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Fri, 24 Mar 2023 12:20:46 +0800
