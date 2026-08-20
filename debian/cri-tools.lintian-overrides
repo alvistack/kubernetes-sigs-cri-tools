@@ -1,0 +1,5 @@
+cri-tools: copyright-without-copyright-notice
+cri-tools: initial-upload-closes-no-bugs
+cri-tools: no-manual-page
+cri-tools: statically-linked-binary
+cri-tools: zero-byte-file-in-doc-directory
