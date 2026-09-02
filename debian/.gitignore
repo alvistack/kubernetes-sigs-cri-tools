@@ -1,0 +1,6 @@
+*.substvars
+*debhelper*
+.debhelper
+cri-tools
+files
+tmp
